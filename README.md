@@ -27,3 +27,7 @@ The extensive ecosystem of modules and libraries available through NPM allows de
 ## Fast and Lightweight:
 
 Built on the V8 engine, Node.js executes JavaScript code quickly. Its non-blocking I/O operations ensure that it remains lightweight and performant even under high loads.
+
+
+## use:
+Node.js offers high performance and scalability for server-side applications using a single language, JavaScript, with an extensive ecosystem and active community support.
